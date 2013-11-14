@@ -13,7 +13,6 @@
 # limitations under the License.
 
 require 'faraday'
-require 'faraday/utils'
 require 'multi_json'
 require 'compat/multi_json'
 require 'addressable/uri'
